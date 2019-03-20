@@ -1,3 +1,5 @@
+This is a coding challenge for Swoop FE interviews.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
